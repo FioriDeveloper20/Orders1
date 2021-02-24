@@ -24,7 +24,7 @@
 					path: '/Customers',
 					sorter: {
 						path: 'CompanyName',
-						descending: false
+						descending: true
 					},
 					groupHeaderFactory: '.createGroupHeader'
 				}"
